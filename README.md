@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <br/>
-    <img src=".github/images/android.webp"/>
+    <img src=".github/images/android.webp" style="width:60%"/>
     <br />
     <br />
     Android Boilerplate
