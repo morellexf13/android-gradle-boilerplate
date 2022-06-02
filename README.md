@@ -15,7 +15,7 @@
     <br />
     
   <img src=".github/images/api-level-32.svg">
-  
+
    [![License](https://img.shields.io/badge/-MIT-red.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf26/android-boilerplate/blob/main/LICENSE)
 
   </sup>
@@ -23,16 +23,26 @@
 
 <br>
 
+## 🦾 Pre-requisites
+
+Android SDK
+
+JDK/JRE setted up
+
+Android Studio*
+
+<br>
 
 ## 🤖 Installation
 
-I recommend using Android Studio
+Build
 
-1.`./gradlew build`
+`./gradlew build`
 
-  This command will generate a directory `app/build` with the apk files at `app/build/outputs/apk/{debug,release}`.
+<i>This command will generate a directory `app/build` with the apk files at `app/build/outputs/apk/{debug,release}`.</i>
 
-  
-2.`./gradlew installDebug`
+Install
+
+`./gradlew installDebug`
 
 Now, you can open the app from the device or emulator.
