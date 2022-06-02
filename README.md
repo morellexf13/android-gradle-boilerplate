@@ -14,7 +14,7 @@
     <br />
     <br />
     
-   [![License](https://img.shields.io/badge/-MIT-red.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf26/electron-frameworkless/blob/main/LICENSE)
+   [![License](https://img.shields.io/badge/-MIT-red.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf26/android-boilerplate/blob/main/LICENSE)
    [![Version](https://img.shields.io/github/v/tag/morellexf26/android-boilerplate?label=%20&style=for-the-badge)](https://github.com/morellexf26/android-boilerplate/releases)
   </sup>
   <br />
