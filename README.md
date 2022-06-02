@@ -33,16 +33,20 @@ Android Studio*
 
 <br>
 
-## 🤖 Installation
+## 🚀 Install
 
-Build
+Build APK
 
-`./gradlew build`
+```
+./gradlew build
+```
 
 <i>This command will generate a directory `app/build` with the apk files at `app/build/outputs/apk/{debug,release}`.</i>
 
-Install
+Install APK
 
-`./gradlew installDebug`
+```
+./gradlew installDebug
+```
 
 Now, you can open the app from the device or emulator.
