@@ -16,7 +16,7 @@
     
   <img src=".github/images/api-level-32.svg">
 
-   [![License](https://img.shields.io/badge/-MIT-red.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf26/android-boilerplate/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/-MIT-red.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf13/android-boilerplate/blob/main/LICENSE)
 
   </sup>
 </div>
@@ -29,7 +29,7 @@ Android SDK
 
 JDK/JRE setted up
 
-Android Studio*
+Android Studio\*
 
 <br>
 
