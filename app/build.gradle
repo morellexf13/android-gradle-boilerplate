@@ -8,7 +8,7 @@ import com.android.build.OutputFile
 def enableProguardInReleaseBuilds = false
 
 android {
-    compileSdkVersion 32
+    compileSdkVersion 34
     defaultConfig {
         applicationId "com.tuto.androidBoilerplate"
         minSdkVersion rootProject.ext.minSdkVersion

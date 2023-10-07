@@ -10,11 +10,9 @@
   </h1>
   <sup>
     <br />
-   An Android (API 32), React native, Gradle, Java template to create & distribute APKs for Android devices.</em>
+   An Android (API 34), React native, Gradle, Java template to create & distribute APKs for Android devices.</em>
     <br />
     <br />
-    
-  <img src=".github/images/api-level-32.svg">
 
 [![License](https://img.shields.io/badge/-MIT-red.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf13/android-boilerplate/blob/main/LICENSE)
 
