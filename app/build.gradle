@@ -1,14 +1,12 @@
 apply plugin: 'com.android.application'
 
-import com.android.build.OutputFile
-
 /**
  * Run Proguard to shrink the Java bytecode in release builds.
  */
 def enableProguardInReleaseBuilds = false
 
 android {
-    compileSdkVersion 34
+    compileSdk 34
     defaultConfig {
         applicationId "com.tuto.androidBoilerplate"
         minSdkVersion rootProject.ext.minSdkVersion
@@ -22,6 +20,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    namespace 'com.tuto.androidBoilerplate'
 }
 
 dependencies {
