@@ -4,13 +4,13 @@
     🐘
     <br />
     <br />
-    Boilerdroid
+    Android Gradle Boilerplate
     <br />
     <br />
   </h1>
   <sup>
     <br />
-   An Android (API 34), React native, Gradle, Java template to create & distribute APKs for Android devices.</em>
+   An Android (API 34) Gradle, Java template to create & distribute APKs for Android devices.</em>
     <br />
     <br />
 
