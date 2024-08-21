@@ -10,7 +10,7 @@
   </h1>
   <sup>
     <br />
-   An Android (API 34) Gradle, Java template to create & distribute APKs for Android devices.</em>
+   An Android (API 35) Gradle, Java template to create & distribute APKs for Android devices.</em>
     <br />
     <br />
 
